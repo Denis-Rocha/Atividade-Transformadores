@@ -20,3 +20,4 @@ Acontece quando a bola bate nas bordas e no retangulo (goleiro)
 
 <img src="img/git.png">
 <img src="img/jogo.png">
+<img src="img/diagrama.png">
